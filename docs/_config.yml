@@ -1,15 +1,15 @@
 title: Snapshot HDR Imaging with a Polarization Camera
 description: "A simple yet effective approach for turning a polarization camera into a snapshot HDR camera."
-logo: /assets/img/teaser.png
+logo: /assets/img/samples.png
 authors: "Mingyang Xie*, Matthew Chan*, Christopher Metzler"
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 github:
-  is_project_page: true
+  is_project_page: false
   owner_url: https://github.com/intelligent-sensing
   owner_name: UMD Intelligent Sensing Lab
-  repository_url: https://github.com/intelligent-sensing/polarization-hdr
+  # repository_url: https://github.com/intelligent-sensing/polarization-hdr
   repository_nwo: intelligent-sensing/polarization-hdr
 # title: Snapshot High Dynamic Range Imaging with a Polarization Camera 
 # logo: /assets/img/logo.png
