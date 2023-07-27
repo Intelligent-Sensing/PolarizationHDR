@@ -7,7 +7,7 @@ A simple yet effective approach for turning a polarization camera into a snapsho
 This project was selected for a poster and demo at [ICCP 2023](https://iccp2023.iccp-conference.org).
 
 {:refdef: style="text-align: center;"}
-[![secret_sauce.png](/assets/img/secret_sauce.png)](/assets/img/secret_sauce.png)
+[![secret_sauce.png](/assets/img/secret_sauce.png)](/polarization-hdr/assets/img/secret_sauce.png)
 {:refdef}
 
 
@@ -24,7 +24,7 @@ $$ I(\theta) = I_0\text{cos}^2(\theta) $$
 
 
 {:refdef: style="text-align: center;"}
-[![malus.png](/assets/img/malus.png){: width="450"}](/assets/img/malus.png)
+[![malus.png](/assets/img/malus.png){: width="450"}](/polarization-hdr/assets/img/malus.png)
 {: refdef}
 
 
@@ -82,5 +82,5 @@ We reconstruct HDR images of a diverse set of natural scenes from snapshots take
 
 
 {:refdef: style="text-align: center;"}
-[![results.png](/assets/img/results.png)](/assets/img/results.png)
+[![results.png](/assets/img/results.png)](/polarization-hdr/assets/img/results.png)
 {:refdef}
