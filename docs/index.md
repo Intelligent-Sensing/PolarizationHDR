@@ -7,7 +7,7 @@ A simple yet effective approach for turning a polarization camera into a snapsho
 This project was selected for a poster and demo at [ICCP 2023](https://iccp2023.iccp-conference.org).
 
 {:refdef: style="text-align: center;"}
-[![secret_sauce.png](/assets/img/secret_sauce.png)](/polarization-hdr/assets/img/secret_sauce.png)
+[![secret_sauce.webp](/assets/img/secret_sauce.webp)](/polarization-hdr/assets/img/secret_sauce.webp)
 {:refdef}
 
 
@@ -24,7 +24,7 @@ $$ I(\theta) = I_0\text{cos}^2(\theta) $$
 
 
 {:refdef: style="text-align: center;"}
-[![malus.png](/assets/img/malus.png){: width="450"}](/polarization-hdr/assets/img/malus.png)
+[![malus.webp](/assets/img/malus.webp){: width="450"}](/polarization-hdr/assets/img/malus.webp)
 {: refdef}
 
 
@@ -73,7 +73,7 @@ $$ H = \frac{1}{N}\sum^N_i \frac{I(\theta_i)}{\text{cos}^2(\hat{\theta}_i)} $$
 <!-- $$ B_i = \text{mode}\left(\frac{I(\theta_i)}{I(\theta_{\text{brightest}})}\right) $$ -->
 
 
-<!-- [![histogram.png](/assets/img/histogram.png)](/assets/img/histogram.png) -->
+<!-- [![histogram.webp](/assets/img/histogram.webp)](/assets/img/histogram.webp) -->
 
 
 # Results
@@ -82,5 +82,5 @@ We reconstruct HDR images of a diverse set of natural scenes from snapshots take
 
 
 {:refdef: style="text-align: center;"}
-[![results.png](/assets/img/results.png)](/polarization-hdr/assets/img/results.png)
+[![comparison.webp](/assets/img/comparison.webp)](/polarization-hdr/assets/img/comparison.webp)
 {:refdef}
