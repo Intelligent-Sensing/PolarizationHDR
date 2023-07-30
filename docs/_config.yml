@@ -1,6 +1,7 @@
 title: Snapshot HDR Imaging with a Polarization Camera
 description: "A simple yet effective approach for turning a polarization camera into a snapshot HDR camera."
-logo: /assets/img/samples.webp
+teaser: /assets/img/samples.webp
+logo: /assets/img/lab-logo.png
 authors: "Mingyang Xie*, Matthew Chan*, Christopher Metzler"
 show_downloads: false
 google_analytics:
